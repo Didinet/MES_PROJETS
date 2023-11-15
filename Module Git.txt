@@ -1,0 +1,8 @@
+Module Git
+Installation de Git : https://git-scm.com/download/win
+
+Cours Git - Theorie : https://nimble-echinacea-d64.notion.site/Cours-Git-Theorie-524e86be671541f7b75835d74d7cbc1c?pvs=4
+
+Git - Tableau de commandes : https://nimble-echinacea-d64.notion.site/Tableau-Commandes-Git-bc83832c89004bbfa7272c93dc5c5148?pvs=4
+
+Site entrainement https://learngitbranching.js.org/?locale=fr_FR 
